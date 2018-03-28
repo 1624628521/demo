@@ -1,0 +1,13 @@
+{
+    "name": "1624628521/demo",
+    "description": "demo",
+    "license": "demo",
+    "authors": [
+        {
+            "name": "2728013386",
+            "email": "2728013386@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
